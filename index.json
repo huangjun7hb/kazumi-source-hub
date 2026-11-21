@@ -1,0 +1,98 @@
+[
+  {
+    "name": "guangsu",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "JHeyzo/KazumiRules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "mdzy",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "JHeyzo/KazumiRules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "ruyi",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "JHeyzo/KazumiRules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "maoyan",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "JHeyzo/KazumiRules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "DM6900",
+    "version": "1.6",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "abulice/kazumisource",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "anime1",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "violetACER/kazumirules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "animoe",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "violetACER/kazumirules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "FQDM",
+    "version": "2.1",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "violetACER/kazumirules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "omofuns",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "violetACER/kazumirules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "xifan",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "violetACER/kazumirules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "yhdmat",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "violetACER/kazumirules",
+    "lastUpdate": 1795219200000
+  },
+  {
+    "name": "yinghuadm",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "violetACER/kazumirules",
+    "lastUpdate": 1795219200000
+  }
+]
