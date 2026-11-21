@@ -1,0 +1,42 @@
+{
+  "sources": [
+    {
+      "repository": "Predidit/KazumiRules",
+      "kind": "official",
+      "ruleCount": 18,
+      "included": false
+    },
+    {
+      "repository": "JHeyzo/KazumiRules",
+      "kind": "community",
+      "rules": [
+        "guangsu",
+        "mdzy",
+        "ruyi",
+        "maoyan"
+      ]
+    },
+    {
+      "repository": "abulice/kazumisource",
+      "kind": "community",
+      "rules": [
+        "DM6900"
+      ]
+    },
+    {
+      "repository": "violetACER/kazumirules",
+      "kind": "community-experimental",
+      "rules": [
+        "anime1",
+        "animoe",
+        "FQDM",
+        "omofuns",
+        "xifan",
+        "yhdmat",
+        "yinghuadm"
+      ]
+    }
+  ],
+  "collectedAt": "2026-11-21",
+  "note": "Source metadata only; neither source availability nor playback was independently tested."
+}
